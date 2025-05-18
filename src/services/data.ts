@@ -1,0 +1,51 @@
+export const itemsList = [
+    {
+        key: 1,
+        item_id: 1,
+        item_name: "T-Shirt",
+        item_des: "T-Shirt",
+        quantity: 1,
+        item_price: 350,
+    },
+    {
+        key: 2,
+        item_id: 2,
+        item_name: "Hat",
+        item_des: "Hat",
+        quantity: 1,
+        item_price: 250,
+    },
+    {
+        key: 3,
+        item_id: 5,
+        item_name: "Belt",
+        item_des: "Belt",
+        quantity: 1,
+        item_price: 230,
+    },
+    // {
+    //     key: 4,
+    //     item_id: 3,
+    //     item_name: "Watch",
+    //     item_des: "Watch",
+    //     quantity: 1,
+    //     item_price: 850,
+    // },
+    // {
+    //     key: 5,
+    //     item_id: 4,
+    //     item_name: "Bag",
+    //     item_des: "Bag",
+    //     quantity: 1,
+    //     item_price: 640,
+    // },
+    // {
+    //     key: 6,
+    //     item_id: 6,
+    //     item_name: 'Hoodie',
+    //     item_des: 'Hoodie',
+    //     quantity: 1,
+    //     item_price: 700,
+    // },
+];
+
